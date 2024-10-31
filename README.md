@@ -40,12 +40,17 @@ This project was targeted to focus on the folllowing analysis:
 ### Inference:
 1. Overall Profit Trends:
    - There are two major brands bringing in the highest profit from 2017 to 2019 although there has been a drastic fall in the profit made per year. This may be due to reduction in product quality or increase in product price. 
-   - The same pattern is noticeable across the remaining four product.
+   - The same pattern is noticeable across the remaining product.
   
 2. Brand Profit:
    - Beta Malt: Beta Malt had it highest profit in 2017 followed by a noticeable fall in subsequent years. This decline may be as a result poor marketing and sales alignment.
-   - Budweiser: Budweiser had the second highest profit in 2017 after which there was a slit decrease in 2018. However, in 2019 there was a huge reduction in the profit made. Inflation in product price, ineffective marketing strategy may be some of the factors that contributed to decrease.
-Budweiser still maintains it stand as in 2017.
+   - Budweiser: Budweiser had the second highest profit in 2017 after which there was a slit decrease in 2018. However, in 2019 there was a huge reduction in the profit made. Inflation in product price, ineffective marketing strategy may be some of the factors that contributed to decrease. Budweiser still maintains it stand as in 2017.
+   - Castle Lite: Remains the highest profit making brand across the years although, the significant decline between 2018-2019 can not be neglected. This decline may indicate high market competition, inadequate marketing startegy or economic factors.
+   - Eagle Leger: Similar to Beta Malt, this brand also shows a decline in profit which could be as a result of poor marketing or poor customer experience or faliure of product to reach targeted audience.
+   -  Grand Malt, Hero and Trophy: The three brand show lower profit figures compared to Budweiser and Castle Lite. Faliure of product to reach targeted audience, product/service misalignment could be major reasons causing this decline.
+
+
+
 
   
 
